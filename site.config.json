@@ -1,0 +1,60 @@
+{
+  "folder": "12【lingdianyun.com.cn】",
+  "name": "零点云",
+  "key": "zero",
+  "port": 4184,
+  "color": "#a8ee6d",
+  "tag": "ZERO CLOUD",
+  "hero": [
+    "零点云加速器",
+    "多设备，轻松用。"
+  ],
+  "intro": "120、350、700 GB 三档月度流量，覆盖 3、5、8 台设备同时使用的不同需求。按设备分别配置，把订阅更新与连接排查整理清楚。",
+  "prices": [
+    12,
+    24,
+    42
+  ],
+  "traffic": [
+    120,
+    350,
+    700
+  ],
+  "labels": [
+    "START",
+    "PLUS",
+    "PRO"
+  ],
+  "domain": "lingdianyun.com.cn",
+  "authorized": false,
+  "previewPort": 4184,
+  "title": "零点云加速器官网 | 多设备套餐与客户端下载",
+  "description": "120、350、700 GB 三档月度流量，覆盖 3、5、8 台设备同时使用的不同需求。按设备分别配置，把订阅更新与连接排查整理清楚。",
+  "speeds": [
+    150,
+    400,
+    800
+  ],
+  "regions": [
+    {
+      "name": "香港",
+      "count": 6,
+      "role": "近距离主力线路"
+    },
+    {
+      "name": "日本",
+      "count": 6,
+      "role": "多设备与流媒体目标"
+    },
+    {
+      "name": "新加坡",
+      "count": 4,
+      "role": "区域备用与跨区访问"
+    },
+    {
+      "name": "美国",
+      "count": 4,
+      "role": "跨洋业务与流媒体目标"
+    }
+  ]
+}
